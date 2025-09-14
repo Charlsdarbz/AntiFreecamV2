@@ -3,7 +3,8 @@
 	"package": "com.darbz.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"OnChatMessage"
 	],
 	"injectors": {
 		"defaultRequire": 1
